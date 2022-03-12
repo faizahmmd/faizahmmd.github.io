@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "70d2f7964cb837cdcff8d085360470aa",
+  "assets/AssetManifest.json": "4ad0cdac64fdd35749f06dbe55ed9e8e",
 "assets/assets/basil.jpg": "4984b9fb60c107a5a8650b441793808a",
 "assets/assets/brand1.png": "09b7c530c3da983aca3acc97ad226510",
 "assets/assets/brand2.png": "27503c5d540128247a4c670742d09877",
@@ -12,10 +12,10 @@ const RESOURCES = {
 "assets/assets/email.png": "5eb3c4b86aafbee72b8c471b29413a50",
 "assets/assets/faizahammed.png": "21584ef6c1a1ed538fa8f7235dbbde5e",
 "assets/assets/female.png": "29c52b49d99a5de88d34ab04aafe3f59",
-"assets/assets/instagram_icon.png": "deb7c11659294b68cc5d702845458424",
+"assets/assets/instagram.png": "deb7c11659294b68cc5d702845458424",
 "assets/assets/ios.png": "49f79e21da11e96b8cf0e3b8bef6616c",
 "assets/assets/laptop.png": "fb49e3c0c36437239db5f8c114b03062",
-"assets/assets/linkedin_icon.png": "ecb093d2740bf010138826e2198c8f85",
+"assets/assets/linkedin.png": "ecb093d2740bf010138826e2198c8f85",
 "assets/assets/male.png": "a687ddbf4597360c3b9e293a58b1d829",
 "assets/assets/mappin.png": "9cc090022ae31337336d2024160714b8",
 "assets/assets/nikki_issac.jpg": "92399a82a6287d7d27d57bc45da2b352",
@@ -52,10 +52,10 @@ const RESOURCES = {
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "96dc4d42b87a8ee254c934248b09f7d9",
-"/": "96dc4d42b87a8ee254c934248b09f7d9",
+"index.html": "5574b9ed9f281185fb5c17aafaba1a12",
+"/": "5574b9ed9f281185fb5c17aafaba1a12",
 "loader.css": "f61841a48de5b79316184d950976284a",
-"main.dart.js": "972489fef04aed161163ca1089ef32a2",
+"main.dart.js": "3d8f80d5f04159aa915c5eee63ba94ce",
 "manifest.json": "33f800ebfef064613f8dec323b266c5b",
 "version.json": "bd341ba74d38c530da636604a427deda"
 };
